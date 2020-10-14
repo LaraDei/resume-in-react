@@ -1,0 +1,10 @@
+#pic-header {
+    width: 100%;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    word-wrap: break-word;
+}
